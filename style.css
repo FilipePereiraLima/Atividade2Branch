@@ -61,7 +61,7 @@ input {
   }
   @font-face {
     font-family: minecraft;
-    src: url(minecraft.ttf);
+    src: url(fonts/minecraft.ttf);
  }
 
  h2{
