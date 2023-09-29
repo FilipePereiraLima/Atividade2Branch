@@ -1,4 +1,4 @@
-function funcao1()
+function funcaobutton()
 {
-alert("Eu sou um alert!");
+alert("DONT PRESS ME! PLEASE🐱‍👤");
 }
