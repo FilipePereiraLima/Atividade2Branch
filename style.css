@@ -61,20 +61,15 @@ input {
   }
   @font-face {
     font-family: minecraft;
-    src: url(minecraft.ttf);
+    src: url(fonts/minecraft.ttf);
  }
 
  h2{
     font-family: minecraft;
  }
 
- input {
-    background-color: #140e25;
-    border: none;
-    color: white;
-    padding: 15px 62px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-  }
+video{
+    border: 1px solid white;
+    width: 40vw;
+    height: 40vh;
+}
