@@ -8,8 +8,9 @@ height: 45vh;
 border: 2px solid white;
 }
 .sect2{
-    display: flex;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: 100%;
+    justify-items: center;
 }
 #resume{
     margin: 100px;
