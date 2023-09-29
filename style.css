@@ -70,6 +70,6 @@ input {
 
 video{
     border: 1px solid white;
-    width: 100vw;
-    height: 100vh;
+    width: 40vw;
+    height: 40vh;
 }
